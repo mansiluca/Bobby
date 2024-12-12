@@ -1,0 +1,6 @@
+.DS_Store
+secretSanta.log
+.env
+package-lock.json
+pm2.config.js
+kevin.log
